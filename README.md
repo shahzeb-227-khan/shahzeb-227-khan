@@ -1,4 +1,3 @@
-preview
 <h1 align="center">Hi 👋, I'm Shahzeb alam</h1>
 <h3 align="center">I am currently focused on Artificial Intelligence and Data Science, building a strong foundation in data-driven thinking, programming, and AI-related technologies. My goal is to grow into developing intelligent systems by continuously learning, experimenting, and applying core concepts through practical projects</h3>
 
