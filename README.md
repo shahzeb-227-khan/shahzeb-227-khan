@@ -24,6 +24,14 @@
 
 <p align="center">
   <picture>
+    <img alt="Contribution graph"
+      src="output/pacman-contribution-graph.svg">
+  </picture>
+</p>
+
+
+<p align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/shahzeb-227-khan/shahzeb-227-khan/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)"
