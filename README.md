@@ -27,3 +27,5 @@
   </picture>
 </p>
 
+[View previous years contributions](https://github.com/shahzeb-227-khan/graphs/contributions)
+
