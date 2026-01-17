@@ -90,13 +90,34 @@
   <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/>
 </p>
 
+
 <!-- ===================== STATS ===================== -->
+<h3 align="center">📊 GitHub Statistics</h3>
+
+<br/>
+
+<!-- Streak -->
+<p align="center">
+  <src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-ashy-phi-19.vercel.app?user=shahzeb-227-khan&theme=shades-of-purple"
+    alt="GitHub Streak"/>
+</p>
+
+<br/>
+
+<!-- Stats & Languages (Perfectly Centered Row) -->
 <p align="center">
   <img
-    src="https://github-readme-streak-stats-ashy-phi-19.vercel.app?user=shahzeb-227-khan&theme=dark"
-    alt="GitHub Streak"
+    src="https://git-stats-alpha.vercel.app/api?username=shahzeb-227-khan&bg_color=000000&title_color=9b5cff&text_color=c9d1d9&icon_color=9b5cff&border_color=9b5cff&show_icons=true&v=3"
+    height="180"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://git-stats-alpha.vercel.app/api/top-langs?username=shahzeb-227-khan&layout=compact&bg_color=000000&title_color=9b5cff&text_color=c9d1d9&border_color=9b5cff&langs_count=6&v=3"
+    height="180"
   />
 </p>
+
+<br/>
 
 <!-- ===================== PACMAN ===================== -->
 <p align="center">
