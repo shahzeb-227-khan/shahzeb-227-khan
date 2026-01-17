@@ -1,0 +1,24 @@
+name: Generate Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Generate GitHub Profile Summary
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        with:
+          USERNAME: shahzeb-227-khan
+          THEME: radical
+
+      - name: Commit summary cards
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Update profile summary cards"
+          add: "profile-summary-card-output"
