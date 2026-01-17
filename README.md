@@ -17,11 +17,9 @@
 
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=shahzeb-227-khan&theme=dark&hide_border=false"
-    alt="GitHub Streak Stats"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzeb-227-khan&theme=dark&hide_border=false" alt="GitHub Streak Stats"/>
 </p>
+
 
 
 <p align="center">
