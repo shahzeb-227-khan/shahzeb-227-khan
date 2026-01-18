@@ -46,7 +46,7 @@
 <br>
 
 <p align="center">
-  <a href="www.shahzebalam.me" target="_blank">
+  <a href="https://www.shahzebalam.me" target="_blank">
     <img src="https://img.shields.io/badge/View%20Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
