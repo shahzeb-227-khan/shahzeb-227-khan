@@ -14,6 +14,7 @@
   <h1>Hi there, I'm Shahzeb Alam 👋</h1>
 </div>
 
+
 <p align="center">
   <a href="https://github.com/shahzeb-227-khan">
     <img
@@ -41,6 +42,16 @@
 • 🔥 Python Developer | Data Analyst | ML Learner  
 • 📫 Reach me at: <strong>shahzebalam223@gmail.com</strong>
 
+<br>
+<br>
+
+<p align="center">
+  <a href="https://shahzebalam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+
 <!-- ===== CLEAR FLOAT (CRITICAL FIX) ===== -->
 <br clear="right"/>
 
@@ -64,6 +75,12 @@
 </p>
 
 <br/>
+
+<p align="center">
+  <a href="https://shahzebalam.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 <!-- ===================== SKILLS ===================== -->
 <h3 align="center">🛠 Languages & Tools</h3>
