@@ -68,10 +68,6 @@
   <a href="https://instagram.com/shahzeb_269" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="28"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/@shahzebalam5002" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="28"/>
-  </a>
 </p>
 
 <br/>
