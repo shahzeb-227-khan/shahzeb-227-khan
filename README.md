@@ -76,12 +76,6 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://shahzebalam.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-</p>
-
 <!-- ===================== SKILLS ===================== -->
 <h3 align="center">🛠 Languages & Tools</h3>
 
