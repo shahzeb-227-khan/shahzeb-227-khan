@@ -118,12 +118,12 @@
 <!-- Stats & Languages (Perfectly Centered Row) -->
 <p align="center">
   <img
-    src="https://git-stats-alpha.vercel.app/api?username=shahzeb-227-khan&bg_color=000000&title_color=9b5cff&text_color=c9d1d9&icon_color=9b5cff&border_color=9b5cff&show_icons=true&v=3"
+    src="https://git-stats-alpha.vercel.app/api?username=shahzeb-227-khan&bg_color=000000&title_color=9b5cff&text_color=c9d1d9&icon_color=9b5cff&border_color=9b5cff&show_icons=true&v=4"
     height="180"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://git-stats-alpha.vercel.app/api/top-langs?username=shahzeb-227-khan&layout=compact&bg_color=000000&title_color=9b5cff&text_color=c9d1d9&border_color=9b5cff&langs_count=6&v=3"
+    src="https://git-stats-alpha.vercel.app/api/top-langs?username=shahzeb-227-khan&layout=compact&bg_color=000000&title_color=9b5cff&text_color=c9d1d9&border_color=9b5cff&langs_count=6&v=4"
     height="180"
   />
 </p>
