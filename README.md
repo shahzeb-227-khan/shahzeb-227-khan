@@ -46,7 +46,7 @@
 <br>
 
 <p align="center">
-  <a href="https://shahzebalam.vercel.app" target="_blank">
+  <a href="www.shahzebalam.dev" target="_blank">
     <img src="https://img.shields.io/badge/View%20Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
