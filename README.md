@@ -35,7 +35,7 @@
 <!-- ===================== ABOUT ===================== -->
 <h3>🚀 About Me</h3>
 
-• 💪 AI & Data Science Enthusiast  
+• 💪 AI & Data Science Enthusiast   
 • 🌱 Currently learning **Artificial Intelligence, Python & Machine Learning**  
 • 🚀 Consistent, motivated & passionate about intelligent systems  
 • 📗 Learning through **hands-on projects & real-world AI experiments**  
