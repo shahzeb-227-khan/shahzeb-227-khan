@@ -61,7 +61,7 @@
 <h3 align="center">🤝 Connect with Me</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/shahzeb-alam-759b992a4" target="_blank">
+  <a href="https://www.linkedin.com/in/shahzebalam223/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;&nbsp;
