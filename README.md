@@ -102,6 +102,3 @@
 </picture>
 
 <p><a href="https://github.com/shahzeb-227-khan">GitHub</a> &nbsp;·&nbsp; <a href="https://shahzebalam.dev">Website</a></p>
-
-<p><sub>Shahzeb Alam · cinematic profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
-</div>
